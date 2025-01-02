@@ -3,6 +3,6 @@ title = "Collections"
 type = "gallery"
 +++
 
-- [Birds](/collections/birds/)
-- [Botanical](/collections/botanical/)
-- [Humans](/collections/humans/)
+- [Birds](./birds/)
+- [Botanical](./botanical/)
+- [Humans](./humans/)
