@@ -1,0 +1,38 @@
+{{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+
+<!-- Set default value for 'show_cover_image' if not provided in front matter -->
+{{ $showCover := default true .Params.show_cover_image }}
+
+<!-- Check if the 'show_cover_image' variable is true -->
+{{ if $showCover }}
+    {{ if and (isset .Params "image") .Params.image }}
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "1000x" }}
+            {{ printf `<img src="%s" alt="%s" class="img-responsive gallery-image">` $thumb.RelPermalink .Title | safeHTML }}
+        {{end}}
+    {{ end }}
+{{ end }}
+
+<div class="slider">
+  <!-- Radio buttons and labels -->
+  {{ range $index, $image := .Params.images }}
+  <input type="radio" name="slider" id="slide{{ add $index 1 }}" {{ if eq $index 0 }}checked{{ end }}>
+  <label for="slide{{ add $index 1 }}" style="background-image: url('{{ $image }}');"></label>
+  {{ end }}
+
+  <!-- Slides container -->
+  <div class="slides">
+    {{ range .Params.images }}
+    <div class="slide">
+      <img src="{{ . }}" alt="Slide">
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+{{ .Content }}
+{{ template "_internal/disqus.html" . }}
+
+{{ end }}

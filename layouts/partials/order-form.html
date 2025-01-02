@@ -1,0 +1,30 @@
+<form name="order" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+  <input type="hidden" name="form-name" value="order">
+  <p>
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name" required>
+  </p>
+  <p>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required>
+  </p>
+  <p>
+    <label for="address">Shipping Address:</label><br>
+    <textarea id="address" name="address" rows="4" required></textarea>
+  </p>
+  <p>
+    <label for="product">Select Product:</label><br>
+    <select id="product" name="product">
+      <option value="linoprint1">Linoprint 1</option>
+      <option value="linoprint2">Linoprint 2</option>
+      <option value="linoprint3">Linoprint 3</option>
+    </select>
+  </p>
+  <p>
+    <label for="quantity">Quantity:</label><br>
+    <input type="number" id="quantity" name="quantity" min="1" required>
+  </p>
+  <p>
+    <button type="submit">Submit Order</button>
+  </p>
+</form>

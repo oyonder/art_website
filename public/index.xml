@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Özlem Yönder Prints</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Özlem Yönder Prints</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2024 21:05:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sat, 21 Dec 2024 21:05:33 +0530</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;connect-with-me&#34;&gt;Connect with Me&lt;/h2&gt;&#xA;&lt;p&gt;I’m always excited to share my art and connect with others. Whether you’re interested in a custom piece, workshops, or simply want to chat about art, feel free to reach out.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact-form&#34;&gt;Contact Form&lt;/h2&gt;&#xA;&lt;form name=&#34;contact&#34; method=&#34;POST&#34; data-netlify=&#34;true&#34;&gt;&#xA;  &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;&lt;br&gt;&#xA;  &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&lt;br&gt;&#xA;&lt;p&gt;&lt;label for=&#34;email&#34;&gt;Email:&lt;/label&gt;&lt;br&gt;&#xA;&lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;label for=&#34;message&#34;&gt;Message:&lt;/label&gt;&lt;br&gt;&lt;/p&gt;&#xA;  &lt;textarea id=&#34;message&#34; name=&#34;message&#34; required&gt;&lt;/textarea&gt;&lt;br&gt;&#xA;&lt;p&gt;&lt;button type=&#34;submit&#34;&gt;Send Message&lt;/button&gt;&lt;/p&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>From Chemistry to Creativity: My Journey to Linoprinting</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>&lt;p&gt;I am a chemical engineer by education. In Turkey, where I grew up, it’s very common to study fields like engineering or medicine—these were seen as secure paths to a good job. Even though my heart was drawn to biology and the arts as a child (I loved painting and watching nature documentaries), I felt the societal pressure to choose a “safe” career. Not feeling brave enough to risk uncertainty, I pursued engineering instead.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Barefoot</title>
+      <link>http://localhost:1313/collections/humans/barefoot/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/collections/humans/barefoot/</guid>
+      <description>&lt;p&gt;The limited edition &amp;ldquo;Barefoot&amp;rdquo; linoprint is an ode to a warm and sunny day reminding me of the grounding and freeing feeling of walking barefoot on sun-warmed rocks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size&lt;/strong&gt;: 15x15 cm&#xA;&lt;strong&gt;Price&lt;/strong&gt;: €20&lt;/p&gt;&#xA;&lt;p&gt;For inquiries, &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contact me&lt;/a&gt; or visit my &lt;a href=&#34;https://www.etsy.com/de-en/shop/OzlemYonderPrints&#34;&gt;Etsy&lt;/a&gt; store.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tringa totanus</title>
+      <link>http://localhost:1313/collections/birds/tringa-totanus/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/collections/birds/tringa-totanus/</guid>
+      <description>&lt;p&gt;The &amp;ldquo;tringa totanus&amp;rdquo; linoprint is part of the Endangered Birds of NRW collection. Hand-carved and printed on locally sourced paper with water-based inks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size&lt;/strong&gt;: 21x30 cm&#xA;&lt;strong&gt;Price&lt;/strong&gt;: €40&lt;/p&gt;&#xA;&lt;p&gt;For inquiries, &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contact me&lt;/a&gt; or visit my &lt;a href=&#34;https://www.etsy.com/de-en/shop/OzlemYonderPrints&#34;&gt;Etsy&lt;/a&gt; store.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inking the carved block of &#39;Bathers by the Ruhr&#39; </title>
+      <link>http://localhost:1313/making/bathers-1/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/making/bathers-1/</guid>
+      <description>&lt;p&gt;Inking the linoleum block of &amp;lsquo;Bathers by the Ruhr&amp;rsquo; for a test print.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test print of &#39;Bathers by the Ruhr&#39; </title>
+      <link>http://localhost:1313/making/bathers-2/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/making/bathers-2/</guid>
+      <description>&lt;p&gt;This is a test print of &amp;lsquo;Bathers by the Ruhr,&amp;rsquo; capturing the memory of a beautiful sunny day by the Ruhr, when tiny fish gently nibbled at our feet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bear hug</title>
+      <link>http://localhost:1313/making/bear-hug/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/making/bear-hug/</guid>
+      <description>&lt;p&gt;Print of the &amp;ldquo;bear hug&amp;rdquo;. I am inspired by all the animals who cuddle their babies while sleeping.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Printing women who runs with the wolves</title>
+      <link>http://localhost:1313/making/women-who-runs-with-the-wolves/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/making/women-who-runs-with-the-wolves/</guid>
+      <description>&lt;p&gt;Test prints of &amp;ldquo;women who runs with the wolves&amp;rdquo;. I made this print back in 2022 after reading the book by Clarissa Pinkola Estés.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo in the making</title>
+      <link>http://localhost:1313/making/logo/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/making/logo/</guid>
+      <description>&lt;p&gt;I created a logo for my printing journey, inspired by Linden, who encourages me to learn and grow alongside him.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Özlem, a linoprint artist living in Bochum, Germany. My journey into art began after earning a PhD in theoretical chemistry and later transitioning to a more creative path. Linoprinting allows me to combine my love for precision and detail with my passion for nature and growth.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-philosophy&#34;&gt;My Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;Every print I create is a celebration of the beauty in everyday life—from a delicate daisy blooming in November to the intricate patterns of birds. I believe in creating sustainably made artwork. That&amp;rsquo;s why I am drawn to linocut printing. I am using water-based paints and locally sourced paper to minimize environmental impact.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

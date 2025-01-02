@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Making on Özlem Yönder Prints</title>
+    <link>http://localhost:1313/making/</link>
+    <description>Recent content in Making on Özlem Yönder Prints</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/making/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inking the carved block of &#39;Bathers by the Ruhr&#39; </title>
+      <link>http://localhost:1313/making/bathers-1/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/making/bathers-1/</guid>
+      <description>&lt;p&gt;Inking the linoleum block of &amp;lsquo;Bathers by the Ruhr&amp;rsquo; for a test print.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test print of &#39;Bathers by the Ruhr&#39; </title>
+      <link>http://localhost:1313/making/bathers-2/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/making/bathers-2/</guid>
+      <description>&lt;p&gt;This is a test print of &amp;lsquo;Bathers by the Ruhr,&amp;rsquo; capturing the memory of a beautiful sunny day by the Ruhr, when tiny fish gently nibbled at our feet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bear hug</title>
+      <link>http://localhost:1313/making/bear-hug/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/making/bear-hug/</guid>
+      <description>&lt;p&gt;Print of the &amp;ldquo;bear hug&amp;rdquo;. I am inspired by all the animals who cuddle their babies while sleeping.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Printing women who runs with the wolves</title>
+      <link>http://localhost:1313/making/women-who-runs-with-the-wolves/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/making/women-who-runs-with-the-wolves/</guid>
+      <description>&lt;p&gt;Test prints of &amp;ldquo;women who runs with the wolves&amp;rdquo;. I made this print back in 2022 after reading the book by Clarissa Pinkola Estés.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logo in the making</title>
+      <link>http://localhost:1313/making/logo/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/making/logo/</guid>
+      <description>&lt;p&gt;I created a logo for my printing journey, inspired by Linden, who encourages me to learn and grow alongside him.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
