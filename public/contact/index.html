@@ -28,13 +28,21 @@
 I’m always excited to share my art and connect with others. Whether you’re interested in a custom piece, workshops, or simply want to chat about art, feel free to reach out.
 Contact Form
 
-  Name:
   
-Email:
-
-Message:
+    Your Name:
+    
   
-Send Message
+  
+    Your Email:
+    
+  
+  
+    Your Message:
+    
+  
+  
+    Send
+  
 "/>
 
 </head>
@@ -71,14 +79,22 @@ Send Message
 <h2 id="connect-with-me">Connect with Me</h2>
 <p>I’m always excited to share my art and connect with others. Whether you’re interested in a custom piece, workshops, or simply want to chat about art, feel free to reach out.</p>
 <h2 id="contact-form">Contact Form</h2>
-<form name="contact" method="POST" data-netlify="true">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name" required><br>
-<p><label for="email">Email:</label><br>
-<input type="email" id="email" name="email" required><br></p>
-<p><label for="message">Message:</label><br></p>
-  <textarea id="message" name="message" required></textarea><br>
-<p><button type="submit">Send Message</button></p>
+<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+  <p>
+    <label for="name">Your Name:</label>
+    <input type="text" name="name" id="name" required>
+  </p>
+  <p>
+    <label for="email">Your Email:</label>
+    <input type="email" name="email" id="email" required>
+  </p>
+  <p>
+    <label for="message">Your Message:</label>
+    <textarea name="message" id="message" required></textarea>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
 </form>
 
 
