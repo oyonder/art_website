@@ -14,9 +14,4 @@ Every print I create is a celebration of the beauty in everyday life—from a de
 
 Using traditional hand-printing techniques, I craft each piece with care and dedication.
 
-[See Me in the Making](/making)
-
-## Follow me
-
-[![Instagram](images/icons/Instagram.png)](https://instagram.com/ozlemyonder_art)
-[![Bsky](images/icons/Bluesky.png)](https://bsky.app/profile/ozlem-art.bsky.social)
+[See Me in the Making]({{< relref "/making" >}})
