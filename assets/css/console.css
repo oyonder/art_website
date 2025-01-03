@@ -177,11 +177,8 @@ figure {
 .image-grid {
     display: grid;
     grid-template-rows: auto;
-    display: grid;
     grid-gap: 1em;
-    grid-template-rows: auto;
-    grid-template-columns: repeat(auto-fit,
-            minmax(calc(var(--page-width) / 4), 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Make sure images fill space */
 }
 
 .image-grid a {
