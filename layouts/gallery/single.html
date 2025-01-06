@@ -2,7 +2,7 @@
 <h1>{{ .Page.Title }}</h1>
 
 <!-- Set default value for 'show_cover_image' if not provided in front matter -->
-{{ $showCover := default true .Params.show_cover_image }}
+{{ $showCover := default false .Params.show_cover_image }}
 
 <!-- Check if the 'show_cover_image' variable is true -->
 {{ if $showCover }}
