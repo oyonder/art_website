@@ -167,34 +167,63 @@ figure {
     padding-top: 10px;;
     border-top: 1px solid var(--secondary-color);
     color: var(--global-font-color);
+    display: flex;             /* Enable flexbox */
+    justify-content: center;   /* Center horizontally */
+    align-items: center;       /* Center vertically */
+    text-align: center;        /* Ensure text inside elements is centered */
+    flex-direction: column;    /* Align content vertically */
 }
 
 .image-grid {
     display: grid;
     grid-template-rows: auto;
-    display: grid;
-    grid-gap: 1em;
-    grid-template-rows: auto;
-    grid-template-columns: repeat(auto-fit,
-            minmax(calc(var(--page-width) / 4), 1fr));
+    grid-gap: 1rem;  /* Space between the items */
+    grid-template-columns: repeat(
+        auto-fill,
+        minmax(300px, 1fr) /* Adjust size of grid cells */
+    );
 }
 
+/* Ensuring the links and images fit perfectly into square cells */
 .image-grid a {
     display: block;
-    text-align: center;  /* Ensures title is centered below image */
+    text-align: center;
+    text-decoration: none;  /* Removes underline from the link */
+    height: 0;
+    padding-bottom: 100%;  /* Ensures aspect ratio is 1:1 (square) */
+    position: relative;  /* Allows absolute positioning of the image */
 }
 
+/* Ensure images are cropped to fit the square shape */
+.image-grid img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;  /* Ensures the image covers the square area */
+}
+
+/* Title styling under the image */
+.image-title {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #333;  /* Optional: color for title text */
+}
+
+.gallery-image {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 .terminal-prompt::after {
     content: none;
 }
 
 .terminal-prompt::before {
     content: none;
-}
-
-.gallery-image {
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
 
 .posts-list {
@@ -282,13 +311,14 @@ figure {
     }
 }
 
-
+/* Slider settings */
 .slider {
   position: relative;
   width: 80%;
   margin: 0 auto;
   overflow: hidden;
   border-radius: 5px;
+  margin-bottom: 20px;
 }
 
 .slides {
@@ -378,3 +408,36 @@ input[name="slider"]:checked + label {
     height: 25px;
   }
 }
+
+/* End of slider settings */
+
+/* Social media icon settings */
+/* Container for the social media icons */
+.social-icons {
+    display: flex;
+    justify-content: center; /* Center the icons */
+    align-items: center;     /* Vertically align the icons */
+    gap: 15px;               /* Space between icons */
+    margin-top: 10px;        /* Add some space above the icons */
+}
+
+/* Style for each individual icon */
+.social-icons a {
+    display: inline-block;
+    text-decoration: none;   /* Remove any underline from links */
+}
+
+/* Style for the images (icons) */
+.social-icons img {
+    width: 24px;             /* Set the size of the icons */
+    height: auto;            /* Maintain aspect ratio */
+    object-fit: contain;     /* Ensure the icon fits within the box without distortion */
+    border-radius: 50%;      /* Optional: Makes icons circular */
+    transition: transform 0.3s ease-in-out; /* Smooth transition for hover effect */
+}
+
+/* Hover effect for the icons */
+.social-icons img:hover {
+    transform: scale(1.1);   /* Slight zoom effect when hovered */
+}
+

@@ -4,5 +4,5 @@ type = "gallery"
 +++
 
 - [Birds](./birds/)
-- [Botanical](./botanical/)
+- [Plants](./plants/)
 - [Humans](./humans/)
