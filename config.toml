@@ -1,4 +1,4 @@
-baseURL = "https://oyonder.github.io/art_website"
+baseURL = "https://oyonder.github.io/art_website/"
 languageCode = 'en-us'
 title = 'Özlem Yönder Prints'
 theme = 'hugo-theme-console'
