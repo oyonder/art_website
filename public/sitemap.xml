@@ -4,125 +4,153 @@
     
         
         <url>
-            <loc>http://localhost:1313/contact/</loc>
+            <loc>//localhost:1313/art_website/contact/</loc>
             <lastmod>2024-12-21T21:05:33+05:30</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>//localhost:1313/art_website/</loc>
             <lastmod>2024-12-21T21:05:33+05:30</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/posts/introduction/</loc>
+            <loc>//localhost:1313/art_website/posts/introduction/</loc>
             <lastmod>2024-12-18T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/posts/</loc>
+            <loc>//localhost:1313/art_website/posts/</loc>
             <lastmod>2024-12-18T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/collections/humans/barefoot/</loc>
+            <loc>//localhost:1313/art_website/collections/humans/barefoot/</loc>
             <lastmod>2024-12-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/collections/birds/</loc>
+            <loc>//localhost:1313/art_website/collections/humans/bathers/</loc>
             <lastmod>2024-12-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/collections/</loc>
+            <loc>//localhost:1313/art_website/collections/plants/bellis-perennis/</loc>
             <lastmod>2024-12-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/collections/humans/</loc>
+            <loc>//localhost:1313/art_website/collections/birds/</loc>
             <lastmod>2024-12-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/collections/birds/tringa-totanus/</loc>
+            <loc>//localhost:1313/art_website/collections/</loc>
             <lastmod>2024-12-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/making/bathers-1/</loc>
-            <lastmod>2024-10-22T00:00:00+00:00</lastmod>
+            <loc>//localhost:1313/art_website/collections/humans/</loc>
+            <lastmod>2024-12-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/making/</loc>
-            <lastmod>2024-10-22T00:00:00+00:00</lastmod>
+            <loc>//localhost:1313/art_website/collections/plants/</loc>
+            <lastmod>2024-12-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/making/bathers-2/</loc>
-            <lastmod>2024-10-22T00:00:00+00:00</lastmod>
+            <loc>//localhost:1313/art_website/collections/birds/tringa-totanus/</loc>
+            <lastmod>2024-12-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/making/bear-hug/</loc>
+            <loc>//localhost:1313/art_website/making/</loc>
+            <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>//localhost:1313/art_website/making/night-printing-2/</loc>
+            <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>//localhost:1313/art_website/making/night-printing/</loc>
+            <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>//localhost:1313/art_website/making/product-photography-copy/</loc>
             <lastmod>2024-10-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/making/women-who-runs-with-the-wolves/</loc>
+            <loc>//localhost:1313/art_website/making/product-photography/</loc>
+            <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>//localhost:1313/art_website/making/women-who-runs-with-the-wolves/</loc>
             <lastmod>2024-10-20T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/making/logo/</loc>
+            <loc>//localhost:1313/art_website/making/logo/</loc>
             <lastmod>2024-10-15T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/about/</loc>
+            <loc>//localhost:1313/art_website/about/</loc>
             <lastmod>2016-11-05T21:05:33+05:30</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/categories/</loc>
+            <loc>//localhost:1313/art_website/categories/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:1313/tags/</loc>
+            <loc>//localhost:1313/art_website/tags/</loc>
         </url>
         
     

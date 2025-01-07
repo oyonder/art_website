@@ -2,81 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Özlem Yönder Prints</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/art_website/</link>
     <description>Recent content on Özlem Yönder Prints</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Dec 2024 21:05:33 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/art_website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>//localhost:1313/art_website/contact/</link>
       <pubDate>Sat, 21 Dec 2024 21:05:33 +0530</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h2 id=&#34;connect-with-me&#34;&gt;Connect with Me&lt;/h2&gt;&#xA;&lt;p&gt;I’m always excited to share my art and connect with others. Whether you’re interested in a custom piece, workshops, or simply want to chat about art, feel free to reach out.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact-form&#34;&gt;Contact Form&lt;/h2&gt;&#xA;&lt;form name=&#34;contact&#34; method=&#34;POST&#34; data-netlify=&#34;true&#34; data-netlify-honeypot=&#34;bot-field&#34;&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label for=&#34;name&#34;&gt;Your Name:&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; name=&#34;name&#34; id=&#34;name&#34; required&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label for=&#34;email&#34;&gt;Your Email:&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; name=&#34;email&#34; id=&#34;email&#34; required&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;label for=&#34;message&#34;&gt;Your Message:&lt;/label&gt;&#xA;    &lt;textarea name=&#34;message&#34; id=&#34;message&#34; required&gt;&lt;/textarea&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;p&gt;&#xA;    &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;&#xA;  &lt;/p&gt;&#xA;&lt;/form&gt;</description>
+      <guid>//localhost:1313/art_website/contact/</guid>
+      <description>&lt;h2 id=&#34;connect-with-me&#34;&gt;Connect with Me&lt;/h2&gt;&#xA;&lt;p&gt;I’m always excited to share my art and connect with others. Whether you’re interested in a custom piece, workshops, or simply want to chat about art, feel free to reach out.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSflP4J9vYtGvDy-CDUo7S7KgYILdwKTPts88pjIhEwlGiIviw/viewform?embedded=true&#34; width=&#34;640&#34; height=&#34;916&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading…&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>From Chemistry to Creativity: My Journey to Linoprinting</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>//localhost:1313/art_website/posts/introduction/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
+      <guid>//localhost:1313/art_website/posts/introduction/</guid>
       <description>&lt;p&gt;I am a chemical engineer by education. In Turkey, where I grew up, it’s very common to study fields like engineering or medicine—these were seen as secure paths to a good job. Even though my heart was drawn to biology and the arts as a child (I loved painting and watching nature documentaries), I felt the societal pressure to choose a “safe” career. Not feeling brave enough to risk uncertainty, I pursued engineering instead.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Barefoot</title>
-      <link>http://localhost:1313/collections/humans/barefoot/</link>
+      <link>//localhost:1313/art_website/collections/humans/barefoot/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/collections/humans/barefoot/</guid>
-      <description>&lt;p&gt;The limited edition &amp;ldquo;Barefoot&amp;rdquo; linoprint is an ode to a warm and sunny day reminding me of the grounding and freeing feeling of walking barefoot on sun-warmed rocks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size&lt;/strong&gt;: 15x15 cm&#xA;&lt;strong&gt;Price&lt;/strong&gt;: €20&lt;/p&gt;&#xA;&lt;p&gt;For inquiries, &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contact me&lt;/a&gt; or visit my &lt;a href=&#34;https://www.etsy.com/de-en/shop/OzlemYonderPrints&#34;&gt;Etsy&lt;/a&gt; store.&lt;/p&gt;</description>
+      <guid>//localhost:1313/art_website/collections/humans/barefoot/</guid>
+      <description>&lt;p&gt;The limited edition &amp;ldquo;Barefoot&amp;rdquo; linoprint is an ode to a warm and sunny day reminding me of the grounding and freeing feeling of walking barefoot on sun-warmed rocks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size&lt;/strong&gt;: 15x15 cm&#xA;&lt;strong&gt;Price&lt;/strong&gt;: €20&lt;/p&gt;&#xA;&lt;p&gt;For inquiries, &lt;a href=&#34;//localhost:1313/art_website/contact&#34;&gt;contact me&lt;/a&gt; or visit my &lt;a href=&#34;https://www.etsy.com/de-en/shop/OzlemYonderPrints&#34;&gt;Etsy&lt;/a&gt; store.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bathers</title>
+      <link>//localhost:1313/art_website/collections/humans/bathers/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art_website/collections/humans/bathers/</guid>
+      <description>&lt;p&gt;The limited edition &amp;ldquo;Bathers by the Ruhr&amp;rdquo; linoprint captures the memory of a beautiful sunny day by the Ruhr, when tiny fish gently nibbled at our feet.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size&lt;/strong&gt;: 24x30 cm&#xA;&lt;strong&gt;Price&lt;/strong&gt;: €34&lt;/p&gt;&#xA;&lt;p&gt;For inquiries, &lt;a href=&#34;//localhost:1313/art_website/art_website/contact/&#34;&gt;contact me&lt;/a&gt; or visit my &lt;a href=&#34;https://www.etsy.com/de-en/shop/OzlemYonderPrints&#34;&gt;Etsy&lt;/a&gt; store.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bellis perennis</title>
+      <link>//localhost:1313/art_website/collections/plants/bellis-perennis/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art_website/collections/plants/bellis-perennis/</guid>
+      <description>&lt;p&gt;I created this print, &lt;em&gt;Bellis perennis&lt;/em&gt;, as winter was approaching. Daisies, with their vibrant blooms, announce the arrival of spring and continue to rebloom through the seasons. Their resilience is truly inspiring.&lt;/p&gt;&#xA;&lt;p&gt;Hand-carved and printed on locally sourced paper with water-based inks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size&lt;/strong&gt;: 15x20 cm&lt;br&gt;&#xA;&lt;strong&gt;Price&lt;/strong&gt;: €28&lt;/p&gt;&#xA;&lt;p&gt;For inquiries, &lt;a href=&#34;//localhost:1313/art_website/art_website/contact/&#34;&gt;contact me&lt;/a&gt; or visit my &lt;a href=&#34;https://www.etsy.com/de-en/shop/OzlemYonderPrints&#34;&gt;Etsy&lt;/a&gt; store.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tringa totanus</title>
-      <link>http://localhost:1313/collections/birds/tringa-totanus/</link>
+      <link>//localhost:1313/art_website/collections/birds/tringa-totanus/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/collections/birds/tringa-totanus/</guid>
-      <description>&lt;p&gt;The &amp;ldquo;tringa totanus&amp;rdquo; linoprint is part of the Endangered Birds of NRW collection. Hand-carved and printed on locally sourced paper with water-based inks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size&lt;/strong&gt;: 21x30 cm&#xA;&lt;strong&gt;Price&lt;/strong&gt;: €40&lt;/p&gt;&#xA;&lt;p&gt;For inquiries, &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;contact me&lt;/a&gt; or visit my &lt;a href=&#34;https://www.etsy.com/de-en/shop/OzlemYonderPrints&#34;&gt;Etsy&lt;/a&gt; store.&lt;/p&gt;</description>
+      <guid>//localhost:1313/art_website/collections/birds/tringa-totanus/</guid>
+      <description>&lt;p&gt;The &amp;ldquo;tringa totanus&amp;rdquo; linoprint is part of the Endangered Birds of NRW collection.&#xA;Original linoleum print of a common redshank (tringa totanus). It is also called Rotschenkel in German, and kızılbacak in Turkish.&#xA;According to the &amp;ldquo;Roten Liste der Brutvögel in Deutschland 2020&amp;rdquo;, this species is strongly threatened.&lt;/p&gt;&#xA;&lt;p&gt;Hand-carved and printed on locally sourced paper with water-based inks.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Size&lt;/strong&gt;: 15x20 cm&#xA;&lt;strong&gt;Price&lt;/strong&gt;: €28&lt;/p&gt;&#xA;&lt;p&gt;For inquiries, &lt;a href=&#34;//localhost:1313/art_website/art_website/contact/&#34;&gt;contact me&lt;/a&gt; or visit my &lt;a href=&#34;https://www.etsy.com/de-en/shop/OzlemYonderPrints&#34;&gt;Etsy&lt;/a&gt; store.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Inking the carved block of &#39;Bathers by the Ruhr&#39; </title>
-      <link>http://localhost:1313/making/bathers-1/</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/making/bathers-1/</guid>
-      <description>&lt;p&gt;Inking the linoleum block of &amp;lsquo;Bathers by the Ruhr&amp;rsquo; for a test print.&lt;/p&gt;</description>
+      <title>Printing the daisies at night</title>
+      <link>//localhost:1313/art_website/making/night-printing-2/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art_website/making/night-printing-2/</guid>
+      <description>&lt;p&gt;Printing the daisies (bellis perennis) at a night session.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Test print of &#39;Bathers by the Ruhr&#39; </title>
-      <link>http://localhost:1313/making/bathers-2/</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/making/bathers-2/</guid>
-      <description>&lt;p&gt;This is a test print of &amp;lsquo;Bathers by the Ruhr,&amp;rsquo; capturing the memory of a beautiful sunny day by the Ruhr, when tiny fish gently nibbled at our feet.&lt;/p&gt;</description>
+      <title>Printing the daisies at night</title>
+      <link>//localhost:1313/art_website/making/night-printing/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art_website/making/night-printing/</guid>
+      <description>&lt;p&gt;Printing the daisies (bellis perennis) at a night session.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bear hug</title>
-      <link>http://localhost:1313/making/bear-hug/</link>
+      <title>Carving with a baby</title>
+      <link>//localhost:1313/art_website/making/product-photography-copy/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/making/bear-hug/</guid>
-      <description>&lt;p&gt;Print of the &amp;ldquo;bear hug&amp;rdquo;. I am inspired by all the animals who cuddle their babies while sleeping.&lt;/p&gt;</description>
+      <guid>//localhost:1313/art_website/making/product-photography-copy/</guid>
+      <description>&lt;p&gt;I did have some back pain after this carving session, but it’s worth it—meeting both of our needs. Baby needs to be close to mama, and mama needs to carve her latest creation!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Product photography</title>
+      <link>//localhost:1313/art_website/making/product-photography/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art_website/making/product-photography/</guid>
+      <description>&lt;p&gt;Here’s how I photograph my prints! Photography may not be my strength, but I make do by chasing the elusive sun in cloudy Bochum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Printing women who runs with the wolves</title>
-      <link>http://localhost:1313/making/women-who-runs-with-the-wolves/</link>
+      <link>//localhost:1313/art_website/making/women-who-runs-with-the-wolves/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/making/women-who-runs-with-the-wolves/</guid>
+      <guid>//localhost:1313/art_website/making/women-who-runs-with-the-wolves/</guid>
       <description>&lt;p&gt;Test prints of &amp;ldquo;women who runs with the wolves&amp;rdquo;. I made this print back in 2022 after reading the book by Clarissa Pinkola Estés.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Logo in the making</title>
-      <link>http://localhost:1313/making/logo/</link>
+      <link>//localhost:1313/art_website/making/logo/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/making/logo/</guid>
+      <guid>//localhost:1313/art_website/making/logo/</guid>
       <description>&lt;p&gt;I created a logo for my printing journey, inspired by Linden, who encourages me to learn and grow alongside him.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>//localhost:1313/art_website/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Özlem, a linoprint artist living in Bochum, Germany. My journey into art began after earning a PhD in theoretical chemistry and later transitioning to a more creative path. Linoprinting allows me to combine my love for precision and detail with my passion for nature and growth.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-philosophy&#34;&gt;My Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;Every print I create is a celebration of the beauty in everyday life—from a delicate daisy blooming in November to the intricate patterns of birds. I believe in creating sustainably made artwork. That&amp;rsquo;s why I am drawn to linocut printing. I am using water-based paints and locally sourced paper to minimize environmental impact.&lt;/p&gt;</description>
+      <guid>//localhost:1313/art_website/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Özlem, a linoprint artist living in Bochum, Germany. My journey into art began after earning a PhD in theoretical chemistry and later transitioning to a more creative path. Linoprinting allows me to combine my love for precision and detail with my passion for nature and growth.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-philosophy&#34;&gt;My Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;Every print I create is a celebration of the beauty in everyday life—from a delicate daisy blooming in November to the intricate patterns of birds. I believe in creating sustainably made artwork. That&amp;rsquo;s why I am drawn to linocut printing. I am using water-based inks and locally sourced paper to minimize environmental impact.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

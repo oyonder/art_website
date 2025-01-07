@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Making on Özlem Yönder Prints</title>
-    <link>http://localhost:1313/making/</link>
+    <link>//localhost:1313/art_website/making/</link>
     <description>Recent content in Making on Özlem Yönder Prints</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/making/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/art_website/making/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Inking the carved block of &#39;Bathers by the Ruhr&#39; </title>
-      <link>http://localhost:1313/making/bathers-1/</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/making/bathers-1/</guid>
-      <description>&lt;p&gt;Inking the linoleum block of &amp;lsquo;Bathers by the Ruhr&amp;rsquo; for a test print.&lt;/p&gt;</description>
+      <title>Printing the daisies at night</title>
+      <link>//localhost:1313/art_website/making/night-printing-2/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art_website/making/night-printing-2/</guid>
+      <description>&lt;p&gt;Printing the daisies (bellis perennis) at a night session.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Test print of &#39;Bathers by the Ruhr&#39; </title>
-      <link>http://localhost:1313/making/bathers-2/</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/making/bathers-2/</guid>
-      <description>&lt;p&gt;This is a test print of &amp;lsquo;Bathers by the Ruhr,&amp;rsquo; capturing the memory of a beautiful sunny day by the Ruhr, when tiny fish gently nibbled at our feet.&lt;/p&gt;</description>
+      <title>Printing the daisies at night</title>
+      <link>//localhost:1313/art_website/making/night-printing/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art_website/making/night-printing/</guid>
+      <description>&lt;p&gt;Printing the daisies (bellis perennis) at a night session.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bear hug</title>
-      <link>http://localhost:1313/making/bear-hug/</link>
+      <title>Carving with a baby</title>
+      <link>//localhost:1313/art_website/making/product-photography-copy/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/making/bear-hug/</guid>
-      <description>&lt;p&gt;Print of the &amp;ldquo;bear hug&amp;rdquo;. I am inspired by all the animals who cuddle their babies while sleeping.&lt;/p&gt;</description>
+      <guid>//localhost:1313/art_website/making/product-photography-copy/</guid>
+      <description>&lt;p&gt;I did have some back pain after this carving session, but it’s worth it—meeting both of our needs. Baby needs to be close to mama, and mama needs to carve her latest creation!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Product photography</title>
+      <link>//localhost:1313/art_website/making/product-photography/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art_website/making/product-photography/</guid>
+      <description>&lt;p&gt;Here’s how I photograph my prints! Photography may not be my strength, but I make do by chasing the elusive sun in cloudy Bochum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Printing women who runs with the wolves</title>
-      <link>http://localhost:1313/making/women-who-runs-with-the-wolves/</link>
+      <link>//localhost:1313/art_website/making/women-who-runs-with-the-wolves/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/making/women-who-runs-with-the-wolves/</guid>
+      <guid>//localhost:1313/art_website/making/women-who-runs-with-the-wolves/</guid>
       <description>&lt;p&gt;Test prints of &amp;ldquo;women who runs with the wolves&amp;rdquo;. I made this print back in 2022 after reading the book by Clarissa Pinkola Estés.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Logo in the making</title>
-      <link>http://localhost:1313/making/logo/</link>
+      <link>//localhost:1313/art_website/making/logo/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/making/logo/</guid>
+      <guid>//localhost:1313/art_website/making/logo/</guid>
       <description>&lt;p&gt;I created a logo for my printing journey, inspired by Linden, who encourages me to learn and grow alongside him.&lt;/p&gt;</description>
     </item>
   </channel>
