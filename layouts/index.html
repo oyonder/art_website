@@ -1,7 +1,5 @@
 {{ define "main" }}
 
-<h1>About</h1>
-
 <p>
 Welcome! I'm Özlem Yönder, a linoprint artist inspired by nature and everyday moments. From my home studio in Bochum, I create handmade prints that celebrate growth, beauty, and sustainability. Explore my collections and bring a piece of art into your life.
 </p>
@@ -11,6 +9,24 @@ Welcome! I'm Özlem Yönder, a linoprint artist inspired by nature and everyday 
 <p>
 <a href="collections/"> [Browse Collections] </a>
 </p>
+
+See me in the making:
+
+<div class="image-grid">
+{{ with .Site.GetPage "/making" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "400x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+    {{ end }}
+{{ end }}
+</div>
+
+
 
 <h1>Latest posts</h1>
 
@@ -25,22 +41,6 @@ Welcome! I'm Özlem Yönder, a linoprint artist inspired by nature and everyday 
                 {{ .Summary }}
             </p>
         </div>    
-    {{ end }}
-{{ end }}
-</div>
-
-<h1>Latest photos</h1>
-
-<div class="image-grid">
-{{ with .Site.GetPage "/making" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
-        </a>
     {{ end }}
 {{ end }}
 </div>
